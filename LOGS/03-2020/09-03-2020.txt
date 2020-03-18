@@ -1,0 +1,165 @@
+---09/03/2020 23:01:50---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('17A10010217', 'Nguyễn Văn Lâm', '02/10/1999', '3', '0868378653', 'vanlam99qv1@gmail.com')
+
+
+---09/03/2020 23:01:50---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1583769710', 'vanlam99qv1@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 2, '17A10010217')
+
+
+---09/03/2020 23:07:11---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('17A10010217', 'Nguyễn Văn Lâm', '02/10/1999', '3', '0868378653', 'vanlam99qv1@gmail.com')
+
+
+---09/03/2020 23:07:11---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1583770031', 'vanlam99qv1@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 2, '17A10010217')
+
+
+---09/03/2020 23:08:08---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('17A10010217', 'Nguyễn Văn Lâm', '02/10/1999', '3', '0868378653', 'vanlam99qv1@gmail.com')
+
+
+---09/03/2020 23:08:08---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1583770088', 'vanlam99qv1@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 2, '17A10010217')
+
+
+17A10010217---09/03/2020 23:08:23---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:08:23', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:08:43---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:08:43---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH156071583719276665','17A10010217'), ('A','B','CH277591583719336532','17A10010217'), ('A','A','CH215641583719399020','17A10010217'), ('C','B','CH158101583719364994','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('D','D','CH179911583719570832','17A10010217'), ('D','C','CH229811583681657399','17A10010217'), ('C','D','CH119641583681630651','17A10010217')
+
+
+17A10010217---09/03/2020 23:08:43---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = 'Khoa Công nghệ Thông tin'
+
+
+17A10010217---09/03/2020 23:08:43---UPDATE `tbl_sinhvien` SET `iSocautraloi` = '8/8', `dtTgianKetthuc` = '2020/03/09 23:08:43', `ketqua` = 12, `iSocaudung` = 6, `trangthai_lambai` = 1
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:11:32---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:11:32', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:11:53---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:11:53---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH277591583719336532','17A10010217'), ('B','B','CH156071583719276665','17A10010217'), ('C','A','CH215641583719399020','17A10010217'), ('C','B','CH158101583719364994','17A10010217'), ('C','B','CH166121583719444960','17A10010217'), ('A','D','CH179911583719570832','17A10010217'), ('C','C','CH229811583681657399','17A10010217'), ('D','D','CH119641583681630651','17A10010217')
+
+
+17A10010217---09/03/2020 23:12:53---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:12:53', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:14:24---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:14:24---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH277591583719336532','17A10010217'), ('A','A','CH156071583719276665','17A10010217'), ('D','B','CH158101583719364994','17A10010217'), ('B','A','CH215641583719399020','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('A','D','CH179911583719570832','17A10010217'), ('B','D','CH119641583681630651','17A10010217'), ('D','C','CH229811583681657399','17A10010217')
+
+
+17A10010217---09/03/2020 23:14:59---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:14:59---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH277591583719336532','17A10010217'), ('A','A','CH156071583719276665','17A10010217'), ('D','B','CH158101583719364994','17A10010217'), ('B','A','CH215641583719399020','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('A','D','CH179911583719570832','17A10010217'), ('B','D','CH119641583681630651','17A10010217'), ('D','C','CH229811583681657399','17A10010217')
+
+
+17A10010217---09/03/2020 23:14:59---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = 'Khoa Công nghệ Thông tin'
+
+
+17A10010217---09/03/2020 23:15:19---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:15:19---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH277591583719336532','17A10010217'), ('A','A','CH156071583719276665','17A10010217'), ('D','B','CH158101583719364994','17A10010217'), ('B','A','CH215641583719399020','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('A','D','CH179911583719570832','17A10010217'), ('B','D','CH119641583681630651','17A10010217'), ('D','C','CH229811583681657399','17A10010217')
+
+
+17A10010217---09/03/2020 23:17:40---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:17:40', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:20:12---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:20:12---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('B','C','CH229811583681657399','17A10010217'), ('D','D','CH119641583681630651','17A10010217'), ('D','D','CH179911583719570832','17A10010217'), ('C','D','CH277591583719336532','17A10010217'), ('B','B','CH156071583719276665','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('D','A','CH215641583719399020','17A10010217'), ('A','B','CH158101583719364994','17A10010217')
+
+
+17A10010217---09/03/2020 23:20:12---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = '3'
+
+
+17A10010217---09/03/2020 23:20:12---UPDATE `tbl_sinhvien` SET `iSocautraloi` = '8/8', `dtTgianKetthuc` = '2020/03/09 23:20:12', `ketqua` = 12, `iSocaudung` = 6, `trangthai_lambai` = 1
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:22:07---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:22:07', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:22:45---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010217'
+
+
+17A10010217---09/03/2020 23:22:45---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('A','C','CH277591583719336532','17A10010217'), ('B','D','CH156071583719276665','17A10010217'), ('A','B','CH166121583719444960','17A10010217'), ('D','D','CH179911583719570832','17A10010217'), ('D','C','CH229811583681657399','17A10010217'), ('A','D','CH119641583681630651','17A10010217'), ('B','B','CH158101583719364994','17A10010217'), ('B','A','CH215641583719399020','17A10010217')
+
+
+17A10010217---09/03/2020 23:22:45---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = '3'
+
+
+17A10010217---09/03/2020 23:22:45---UPDATE `tbl_sinhvien` SET `iSocautraloi` = '8/8', `dtTgianKetthuc` = '2020/03/09 23:22:45', `ketqua` = 14, `iSocaudung` = 7, `trangthai_lambai` = 1
+WHERE `sMaSV` = '17A10010217'
+
+
+---09/03/2020 23:24:03---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('17A10010216', 'Trần Thị Diệu Linh', '02/10/1999', '6', '0868378654', 'dieulinh@gmai.com')
+
+
+---09/03/2020 23:24:03---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1583771043', 'dieulinh@gmai.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 2, '17A10010216')
+
+
+17A10010216---09/03/2020 23:24:09---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:24:09', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010216'
+
+
+17A10010216---09/03/2020 23:24:29---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010216'
+
+
+17A10010216---09/03/2020 23:24:29---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('D','B','CH166121583719444960','17A10010216'), ('A','B','CH158101583719364994','17A10010216'), ('A','A','CH215641583719399020','17A10010216'), ('D','D','CH179911583719570832','17A10010216'), ('D','D','CH119641583681630651','17A10010216'), ('C','C','CH229811583681657399','17A10010216'), ('A','A','CH277591583719336532','17A10010216'), ('A','C','CH156071583719276665','17A10010216')
+
+
+17A10010216---09/03/2020 23:24:29---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = '6'
+
+
+17A10010216---09/03/2020 23:24:29---UPDATE `tbl_sinhvien` SET `iSocautraloi` = '8/8', `dtTgianKetthuc` = '2020/03/09 23:24:29', `ketqua` = 12, `iSocaudung` = 6, `trangthai_lambai` = 1
+WHERE `sMaSV` = '17A10010216'
+
+
+---09/03/2020 23:25:47---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('17A10010218', 'Bùi Thị Trang', '02/10/1999', '9', '0868378650', 'buitrang@gmail.com')
+
+
+---09/03/2020 23:25:47---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1583771147', 'buitrang@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 2, '17A10010218')
+
+
+17A10010218---09/03/2020 23:25:49---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/09 23:25:49', `trangthai_lambai` = 0
+WHERE `sMaSV` = '17A10010218'
+
+
+17A10010218---09/03/2020 23:27:17---DELETE FROM `tbl_ketqua_sv`
+WHERE `sMaSV` = '17A10010218'
+
+
+17A10010218---09/03/2020 23:27:17---INSERT INTO `tbl_ketqua_sv` (`DapAnChonWEB`, `sDapanchon`, `sMaCauhoi`, `sMaSV`) VALUES ('D','C','CH229811583681657399','17A10010218'), ('B','D','CH119641583681630651','17A10010218'), ('B','D','CH179911583719570832','17A10010218'), ('A','B','CH166121583719444960','17A10010218'), ('A','B','CH158101583719364994','17A10010218'), ('A','A','CH215641583719399020','17A10010218'), ('A','A','CH277591583719336532','17A10010218'), ('A','B','CH156071583719276665','17A10010218')
+
+
+17A10010218---09/03/2020 23:27:17---UPDATE `tbl_khoa` SET `soSV_DuThi` = 1
+WHERE `makhoa` = '9'
+
+
+17A10010218---09/03/2020 23:27:17---UPDATE `tbl_sinhvien` SET `iSocautraloi` = '8/8', `dtTgianKetthuc` = '2020/03/09 23:27:17', `ketqua` = 12, `iSocaudung` = 6, `trangthai_lambai` = 1
+WHERE `sMaSV` = '17A10010218'
+
+

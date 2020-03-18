@@ -1,0 +1,165 @@
+.title-lambai{
+    /*text-shadow:1px -2px 1px #b5e5f3e0, 0 0 25px #d6d6ff, 0 0 2px #92d2ff;*/
+	text-align: center;
+}
+.title-lambai .title-sp{
+	font-size: 32px;
+    font-family: "UTM";
+    color: #08c;
+    font-weight: 100;
+}
+.title-lambai span:nth-child(1){
+    font-family: 'Arima Madurai';
+    color:#c1c0c0;
+    font-weight: 100;
+}
+.title-lambai span{
+	color:#f05868;
+}
+.title-sadow-right, .title-sadow-left {
+    text-transform: none;
+    padding: 15px;
+    box-shadow: -1px 2px 3px 0px #CCB;
+    text-transform: uppercase;
+    font-family: 'Arima Madurai';
+}
+.title-sadow-left{
+	border-left: 7px solid #177abc;
+}
+.title-sadow-right{
+    border-left: 7px solid #1e8b63;
+}
+.ttCH{
+	padding: 10px;
+    box-shadow: 0px 0px 1px 0px #b5b1b1;
+}
+.soCH{
+	padding: 5px;
+    font-size: 14px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.ndCH{
+	font-size: 17px;
+    font-weight: 100;
+}
+.dapanQuestion{
+	padding-left: 40px;
+	padding: 20px;
+    padding-bottom: 0px;
+    padding-top: 14px;
+}
+.dapanselect{
+	font-size: 20px;
+	font-weight: bold;
+}
+.custom-control-label:hover{
+	cursor: pointer !important;
+}
+.dapanQS{
+
+}
+.minimap{
+	padding-right: 0px;
+	padding-left: 0px;
+
+	/*position: fixed;*/
+	/*top:0;*/
+	/*right: 0;*/
+   box-shadow: 1px 0px 24px 2px #ccc;
+}
+.minimap-fixed {
+    position: fixed;
+    right: 19px;
+    top: -5px;
+    padding: 0;
+        box-shadow: 1px 0px 24px 2px #ccc;
+    opacity: 0;
+    transition: all 0.4s ease-in-out 0s;
+    z-index: 2;
+}
+.scrollTop {
+    position: fixed;
+    bottom: 40px;
+    right: 52px;
+    opacity: 0;
+    transition: all 0.4s ease-in-out 0s;
+    z-index: 3;
+}
+.scrollTop i{
+    font-size: 25px;
+    background-color: #b8b4b4;
+    border-radius: 21px;
+    padding: 9px;
+    opacity: 0.5;
+}
+.scrollTop a {
+  font-size: 18px;
+  color: #fff;
+}
+[class=cauhoi-mini] {
+    display: none;
+}
+.btn-cauhoi {
+    margin: -4px;
+    margin-bottom: 0.5em;
+    margin-left: 2px;
+    font-size: 15px;
+    width: 41px;
+    text-align: center;
+    margin-right: 1px;
+    font-family: 'Arima Madurai';
+    padding: 7px 10px !important;
+
+}
+.clickCH{
+	margin-right: 5px;
+	border-radius: 5px !important;
+	padding: 9px 14px;
+}
+.btn-active_cauhoi{
+    color: #fff !important;
+    background-color: #639bcc !important;
+    border-color: #639bcc !important;
+    padding-right: 10px;
+ 
+}
+.btn-success2 {
+    color: #333;
+    background-color: #ddd;
+    border-color: #dfdede;
+    font-weight: bold;
+
+}
+.out-click{
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.soCHHT{
+	border-radius: 0;
+    background: #2c92ce;
+	color:#fff;
+	font-size: 19px;
+}
+.message-box .mb-container {
+    background: #337ab778;
+}
+.luuynopbai{
+	color:#ffe000;
+}
+.mb-footer button{
+	font-size: 19px;
+}
+.warning{
+    color: #ff5752;
+    font-weight: 500;
+    /*background: aliceblue;*/
+    padding: 5px;
+    font-size: 14px;
+    font-family: 'Arima Madurai';
+
+}
+.row-warn{
+    border: 1px solid #f5f5f5;
+}

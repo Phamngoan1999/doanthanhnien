@@ -1,0 +1,10 @@
+---13/03/2020 11:29:02---INSERT INTO `tbl_sinhvien` (`sMaSV`, `sTenSV`, `sNgaysinh`, `FK_makhoa`, `sSDT`, `sEmail`) VALUES ('18A42010177', 'Vi Thị Thu Hiền', '05/07/2000', '7', '0964385940', 'hienvi.0507@gmail.com')
+
+
+---13/03/2020 11:29:02---INSERT INTO `tbl_taikhoan` (`sMaTaikhoan`, `sEmail`, `sMatkhau`, `iMaQuyen`, `sMaSV`) VALUES ('TK1584073742', 'hienvi.0507@gmail.com', '4d90d52dcfeb6702cb3259d748e16041f8e2fcba', 2, '18A42010177')
+
+
+18A42010177---13/03/2020 11:29:08---UPDATE `tbl_sinhvien` SET `dtTgianBatdau` = '2020/03/13 11:29:08', `trangthai_lambai` = 0
+WHERE `sMaSV` = '18A42010177'
+
+

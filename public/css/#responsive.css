@@ -1,0 +1,31 @@
+
+@media screen and (min-width: 1025px){
+	
+}
+@media screen and (min-width: 769px) and (max-width: 991px){
+	
+}
+@media screen and (width: 1024px){
+	
+}
+@media screen and (max-width: 768px){
+	.titlehou {
+	    color: #fff !important;
+	}
+	.d-block{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+@media screen and (max-width: 767px){
+	
+}
+@media screen and (max-width: 480px){
+	
+}
+@media screen and (max-width: 375px){
+	
+}
+@media screen and (max-width: 360px){
+
+}

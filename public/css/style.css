@@ -1,0 +1,304 @@
+@font-face{
+    src:url('../font-family/UTM/UTMHelvetIns.ttf');
+    font-family: "UTM";
+}
+.pd-0{
+    padding: 0;
+}
+.titlehou{
+	font-size: 24px;
+    font-weight: bold;
+    color: #215c9b;
+}
+.header-area {
+    padding: 0px 28px;
+}
+.search-box{
+	padding: 10px;
+}
+.search-box .ttdn, .dangxuat{
+	padding: 10px;
+	text-align: center;	
+}
+.font-chu{
+    font-family: 'Arima Madurai';
+}
+.search-box .ttdn{
+	background: #66a1ef;
+    color:#fff;
+}
+.search-box .dangxuat span{
+	color:#fff !important;
+}
+
+.search-box .dangxuat{
+	background: #17a2b8;
+}
+.search-box .dangxuat span{
+	color:#fff !important;
+}
+.d-block{
+	padding-bottom: 10px;
+}
+.btn-primary {
+    color: #fff;
+    background-color:#5898dd;
+    border-color:#5898dd;
+}
+
+.slicknav_menutxt{
+	font-size: 24px;
+    font-weight: bold;
+}
+.horizontal-menu .submenu {
+    min-width: 223px;
+}
+#nav_menu li:hover{
+	background: #F3F8FB;
+}
+.horizontal-menu .submenu li:hover{
+	background: #F3F8FB;
+}
+.horizontal-menu ul li a {
+	padding: 10px;
+    border-left: 1px solid #CCc;
+    /* text-transform: uppercase; */
+    color: #0049aa;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.header-title {
+     text-transform: none; 
+}
+.title-wel{
+    color: #ec0f51;
+    font-size: 34px;
+    text-transform: none;
+    font-family: 'Arima Madurai';
+}
+.title-wel-sv{
+    color: #ec0f51;
+    font-size: 23px;
+    text-transform: none;
+    font-family: 'Arima Madurai';
+}
+.toxanhTen{
+	color:green;
+	font-size: 40px;
+    font-family: 'Arima Madurai';
+}
+.container-main{
+	/*min-height: 412px;*/
+}
+footer {
+	margin-top: 10px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+/*.card-body{
+	border: 1px solid #edebeb;
+}
+*/
+.ttsv{
+	padding: 20px;
+    box-shadow: 7px 13px 32px 0px #ccc;
+}
+.ttsv label,input{
+	 font-family: 'Arima Madurai';
+
+}
+.poster{
+	width: 100%;
+    padding: 10px 0;
+    /*background-color: rgb(33, 146, 202);*/
+    background-image: url("../images/bgketqua.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    min-height: 300px;
+    box-shadow: -2px 3px 10px 11px #cfd7c9;
+}
+.poster .card-body{
+	padding: 12px;
+    /*background-color: rgb(33, 146, 202);*/
+}
+.cuocthi{
+	display: block;
+    line-height: 1.2;
+    text-transform: none;
+    font-size: 26px;
+    font-weight: bold;
+    color: #eef058;
+	font-family: 'Arima Madurai';
+	margin-bottom: 4px;
+}
+.title-tt-re{
+    /*color: #fdff0f;*/
+    color: #cccccc;
+    font-size: 17px;
+}
+.cuocthi-noidung{
+	 font-family: 'UTM';
+	font-size: 39px;
+    padding-left: 117px;
+    text-transform: uppercase;
+}
+.cuocthi-noidung2{
+
+    /*text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;*/
+    font-family: 'Arima Madurai';
+    /*font-size: 27px;*/
+    /*line-height: 39px;*/
+    text-transform: uppercase;
+    color:#fff;
+    text-align: center;
+}
+.sobe{
+    top: 13px;
+    left: 92px;
+    font-size: 25px;
+}
+.cd-span1, .cd-span2{
+    font-size: 22px;
+    text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;
+}
+.tdhm{
+    /*font-size: 28px;*/
+}
+.countdown .row:nth-child(1){
+    /*padding:15px;*/
+}
+.countdown .row:nth-child(2){
+    padding: 10px;
+    margin-top: 1.6em;
+}
+.countdown .part {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 4px;
+    min-width: 70px;
+    cursor: pointer;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+    background-color: #f15689;
+    color: #f3f1f1;
+    box-shadow: 3px 1px 1px 0px #fff;
+    padding: 11px;
+}
+.countdown .col-3{
+	text-align: center;
+}
+.countdown .col-3 .part{
+    /*padding: 1em;*/
+}
+.ghichu{
+	padding: 11px;
+    color: #bec2c6;
+}
+.row-menu{
+	box-shadow:0px 0px 10px 0px #ccc;
+}
+.rowtc{
+    min-height: 350px;
+}
+.submenu li a{
+    font-size: 12px !important;
+}
+
+.title-sadow-chung{
+    text-transform: none;
+    padding: 15px;
+    /*box-shadow: -1px 2px 10px 0px #CCB;*/
+   text-transform: uppercase;
+    font-family: 'Arima Madurai';
+    border-left: 7px solid #5895f0;
+}
+.rowtgbd{
+    box-shadow: -1px 2px 10px 0px #CCB;
+}
+.bieudo{
+    margin-top: 30px;
+    padding: 16px;
+    box-shadow: 0px 0px 10px 0px #ccc;
+    min-height:422px;
+}
+.mauBieudong{
+    padding: 4px 13px;
+    margin: 15px;
+    border: 2px solid #d1cfcf;
+}
+.khoaBieudo{
+    font-size: 12px;
+    color: #2f89a6;
+    font-weight: 600;
+    font-family: 'Arima Madurai';
+}
+.chitietbieudo{
+    position: absolute;
+    bottom: 47px;
+    left: 21px;
+    /*padding-left: 18px;*/
+}
+.chitietbieudo1>.col-6{
+    padding-left: 0;
+    padding-right: 0;
+}
+.amcharts-chart-div{
+    top: -75px !important;
+    left: -6px !important;
+}
+.pie-fx{
+    position: absolute;
+    left: 471px;
+    bottom: -27px;
+}
+.tktong{
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 11px;
+    font-size: 22px;
+    color: #c98b19;
+}
+.tongsosvdt{
+    font-weight: bold;
+    /*padding-top: 0px;*/
+    padding-left: 11px;
+    font-size: 34px;
+    color: #3cd36b;
+}
+.tongsosvdt span {
+    font-size: 17px;
+    color: #a8a8a8;
+}
+.tomau{
+    background: #ebf3fc;
+}
+.ttsv strong{
+    font-size: 15px;
+    color: #18a536;
+}
+.ttsv-span{
+    font-size: 16px;
+    color:#6d7d8b;
+}
+.kqq{
+    padding: 20px;
+    margin: 10px 0;
+}
+.kqq span{
+    padding: 20px;
+    background-image: linear-gradient(90deg,#ebf8ff96,#17caa080);
+    color: #ffffff;
+    font-family: 'Arima Madurai';
+    text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;
+    font-size: 21px;
+}
+.tpt{
+    text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;
+}
+

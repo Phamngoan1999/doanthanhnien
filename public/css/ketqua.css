@@ -1,0 +1,97 @@
+.hotenKQ{
+	background-image: linear-gradient(10deg,#2a70b8,#2a70b8);
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: 600;
+    padding: 9px 24px;
+    border-radius: 22px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+header{
+	padding-top: 20px;
+	margin-bottom: 30px;
+}
+section.content{
+	padding-top: 20px;
+	/*margin-bottom: 100px;*/
+}
+.img_kq{
+	margin-bottom: 10px;
+}
+@media screen and (max-width: 768px){
+	.d-block{
+		display: none !important;
+	}
+	.hotenKQ {
+	    padding: 9px 7px;
+    	font-size: 11px !important;
+	}
+	header .col-4{
+		padding: 0 !important;
+		text-align: center;
+	}
+	.diemso{
+		margin-left: -30px !important;
+	}
+	/*.thongbao {
+	    font-size: 19px !important;
+	}
+	.title-tb {
+    	font-size: 14px !important;
+	}
+	.title-tb-tg{
+		font-size: 12px !important;
+	}*/
+}
+.row-content{
+	color:#fff;
+}
+.thongbao{
+	font-size: 25px;
+	font-weight: bold;
+	color:#ffe638f2;
+}
+#main-kq{
+	/*min-height: 500px;*/
+    background-image: url("../images/bgketqua.jpg");
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center;
+    background-size: cover;
+
+}
+.title-tb{
+	/*color: #fff68e;*/
+	color: #efff00;
+    font-size: 18px;
+    font-weight: bold;
+    /*text-shadow: 1px 4px 1px #005076, 0 0 29px #c1daff, 0 0 5px #3838b6;*/
+    font-family: 'Arima Madurai';
+}
+.fter{
+	color:white;
+	text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+}
+.diemso{
+	margin-top: 20px;	
+	padding: 30px;
+	margin-bottom: 30px;
+	background: #aaaaff82;
+}
+.border-span{
+
+}
+.title-tb-tg{
+	font-size: 16px;
+	font-weight: 500;
+	color:#fff;
+	font-weight: bold;
+	text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;
+}
+.name-kq{
+	font-size: 35px;
+	text-transform: uppercase;
+	text-shadow: #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px, #555353 0px 0px 1px;
+}
+

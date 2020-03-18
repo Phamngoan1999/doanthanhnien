@@ -1,0 +1,434 @@
+
+@media (min-width: 240px) and (max-width: 479px) {
+	.andi{
+		display: none;
+	}
+
+	.hienthi{
+		display: block !important;
+	}
+	.hidden-xs{
+		display: none;
+	}
+	.name-kq {
+	    font-size: 27px !important;
+	}
+	.message-box .mb-container {
+	    top: 0% !important;
+	    padding: 0;
+	}
+	.message-box .mb-container .mb-middle {
+	    width: 100% !important;
+	     left: 0% !important; 
+		padding: 10px;
+	}
+	.mb-content h3{
+		font-size: 14px;
+	}
+	.minimap-fixed {
+    	right: 0px !important;
+	}
+	.fade.show {
+	    text-align: center;
+	}
+	.pd-0-lambai{
+		padding: 0;
+		margin-top: 3px !important;
+	}
+	.pd-0-re{
+		padding: 0;
+		margin-top: 5px !important;
+	}
+	.batdaulambai1{
+		font-size: 12px;
+	}
+	.toxanhTen {
+	    color: green;
+	    font-size: 15px;
+	}
+	.title-wel-sv {
+	    font-size: 15px;
+	}
+	.khoaBieudo {
+	    font-size: 8px;
+	}
+	#ampiechart3{
+		height: 400px;
+	}
+	.title-sadow, .title-sadow-left {
+	    padding: 12px !important;
+	}
+	.title-tuan span{
+		font-size: 28px !important;
+	}
+	.cuocthi-noidung {
+		line-height: 40px;
+    	font-size: 20px;
+		padding-left: 0px;
+    }
+    .cd-span1{
+    	font-size: 18px;
+	}
+	.poster .card-body {
+	    padding: 7px;
+	}
+	.vong {
+    	font-size: 32px;
+    }
+    #vong {
+    	 font-size: 27px;
+    }
+    .countdown .part {
+    	margin: 0;
+		margin-left: 9px !important;
+    	padding: 11px;
+    	font-size: 15px;
+	}
+	.col-12-repone, .reponsive-col-8, #dangky {
+		padding: 0px;
+	}
+	.khoatk span:nth-child(3) {
+	    font-size: 12px;
+	}
+	.reponsive-col-8 
+	.card-body, #dangky .card-body {
+	    padding: 10px;
+	}
+	.tenxh {
+	    font-size: 16px !important;
+	}
+	.diemxh {
+	    padding: 13px !important;
+	}
+	/*.search-box{
+		display: none;
+	}*/
+	.slicknav_menu {
+	    margin-top: 8px;
+	}
+	.slicknav_menu>a {
+	    padding: 7px;
+	}
+	.menu, .pading-0-repon .col-sm-9{
+		padding-left: 0;
+    	padding-right: 0;
+	}
+	.align-items-center img{
+		height: 56px;
+	}
+	.ttsv {
+	    padding: 9px;
+	}
+	.repon-bd{
+		position: absolute;
+		bottom: 321px;
+    	left: 18px;
+	}
+	.bieudo{
+		height: 750px;
+	}
+	.chitietbieudo2{
+		margin-top: 152px;
+		padding: 35px;
+		padding-bottom: 0px;
+	}
+	.chitietbieudo2 .col-6, #main-kq, #main-kq.content{
+		padding:0 !important;
+	}
+	.imgtong{
+		width: 40px;
+	}
+	.tketong-re{
+		padding: 33px;
+    	padding-left: 32px;
+		padding-bottom: 0px !important;
+	}
+	.title-sadow, .title-sadow-left {
+	       font-size: 17px;
+	}
+
+	.sobe {
+    	left: 21px !important;
+    	top: 14px !important;
+    }
+}
+@media all and (max-width: 414px) {
+	.cuocthi-noidung2-span {
+	    font-size: 16px ;
+	}
+	.hienBR{
+		display: none;
+	}
+	.title-lambai .title-sp {
+	    font-size: 24px !important;
+	}
+	.solon {
+	    left: 32px !important;
+	    top: 13px !important;
+	}
+	.sobe {
+	    left: 28px !important;
+	    top: 16px !important;
+	}
+	.stt-xh {
+	    left: 30px !important;
+	    top: 15px !important;
+	}
+}
+@media all and (max-width: 411px) {
+	.minimap-fixed {
+    	right: 0px !important;
+	}
+	.cd-span1{
+		font-size: 25px ;
+	}
+	.vong {
+		font-size: 37px;
+	}
+	#vong {
+		font-size: 27px;
+	}
+	.message-box .mb-container {
+	    top: 0% !important;
+	    padding: 0;
+	}
+	.message-box .mb-container .mb-middle {
+	    width: 100% !important;
+	     left: 0% !important; 
+		padding: 10px;
+	}
+	.mb-content h3{
+		font-size: 14px;
+	}
+	.stt-xh {
+   	 	left: 30px !important;
+    	top: 14px !important;
+	}
+	.stt-xh1 {
+    	left: 33px !important;
+    	top: 12px !important;
+    }
+    .sobe {
+    	left: 28px !important;
+    	top: 17px !important;
+    }
+    .hienBR{
+    	display: none;
+    }
+    .title-lambai .title-sp{
+		font-size: 24px !important;
+	}
+	
+}
+
+@media all and (max-width: 375px) {
+   .solon{
+   	    left: 27px !important;
+    	top: 11px !important;
+   }
+   .sobe {
+	    left: 23px !important;
+	    top: 16px !important;
+	}
+	.stt-xh {
+	    left: 28px;
+	}
+	.cd-span1 {
+	   font-size: 17px;
+	}
+	.cuocthi-noidung2-span2{
+		font-size: 14px;
+	}
+	
+}
+@media all and (max-width: 360px) {
+  	.stt-xh {
+    	font-size: 26px !important;
+    	left: 27px !important;
+    	top: 13px !important;
+	}
+	.cuocthi-noidung2 {
+	    font-size: 13px;
+	}
+	.cd-span1 {
+	    font-size: 16px;
+	}
+	.cuocthi-noidung2-span2{
+		font-size: 13px;
+	}
+	.title-lambai .title-sp{
+		font-size: 23px !important;
+	}
+	.button1 {
+	    bottom: 97px !important;
+	    right: 9px !important;
+	}
+}
+@media all and (max-width: 320px){
+	.khoaBieudo {
+	    font-size: 7px !important;
+	}
+	.chitietbieudo2 {
+	    padding: 26px;
+	}
+	.vong {
+	    font-size: 28px;
+	}
+	.countdown .part {
+	    margin-left: 0px !important;
+	    padding: 14px;
+	    font-size: 13px;
+	}
+	.title-tt-re{
+		font-size: 17px;
+	}
+	.khoatk span:nth-child(3) {
+	    font-size: 11px;
+	}
+	.tenxh{
+		font-size: 14px !important;
+	}
+	.khoaxh{
+		font-size: 12px;
+	}
+	.diemxh {
+	    padding: 9px !important;
+	}
+	.stt-xh {
+	    font-size: 22px !important;
+	    left: 24px !important;
+	    top: 12px !important;
+	}
+	.solon {
+		font-size: 22px !important;
+	    left: 24px !important;
+	    top: 10px !important;
+	}
+	.sobe {
+	    left: 18px !important;
+	    top: 11px !important;
+	}
+	.title-lambai .title-sp {
+	    font-size: 19px !important;
+	}
+	.pd-0-lambai .card-body{
+		padding: 23px;
+	}
+	.minimap-fixed {
+    	right: 0px !important;
+	}
+	.dapanQuestion {
+		padding: 5px !important;
+	}
+	.Question_lambai .col-12:nth-child(1){
+		padding: 0 !important;
+	}
+	.Question_lambai .col-12:nth-child(1) strong{
+		font-size: 14px;
+	}
+	.message-box .mb-container {
+	    top: 0% !important;
+	    padding: 0;
+	}
+	.message-box .mb-container .mb-middle {
+	    width: 100% !important;
+	     left: 0% !important; 
+		padding: 10px;
+	}
+	.mb-content h3{
+		font-size: 14px;
+	}
+	.cuocthi-noidung2 {
+	    font-size: 14px;
+	}
+	.cuocthi-noidung2-span {
+	    font-size: 14px;
+	}
+	.cd-span1 {
+	    font-size: 14px;
+	}
+	.title-tb-tg {
+	    font-size: 14px !important;
+	}
+
+}
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.soCHHT {
+	    font-size: 14px !important;
+	}
+	.pie-fx {
+	    position: absolute;
+	    left: 421px;
+	    bottom: -27px;
+	}
+	.stt-xh {
+    	left: 77px !important;
+	}
+	.out-img-xh img {
+		width: 66px;
+	}
+	.diemxh {
+	    padding: 22px !important;
+	    font-size: 17px !important;
+	}
+	.thamgia{
+		padding: 8px !important;
+	}
+	.title-tuan span {
+	    font-size: 25px !important;
+	}
+	.title-tt-re{
+		font-size: 23px;
+	}
+	.title-lambai .title-sp {
+	    font-size: 23px !important;
+	}
+}
+@media (min-width: 1024px) and (max-width: 1335px) {
+	.title-tuan span {
+	    font-size: 36px !important;
+	}
+	.countdown .part {
+	    margin: 7px;
+	}
+}
+@media (min-width: 1200px) and (max-width: 1364px) {
+     .soXH{
+        font-size: 20px;
+      	left: 30px !important;
+    	top: 14px !important;
+     }
+     .soXH {
+     	 font-size: 20px !important;
+    	left: 20px !important;
+    	top: 14px !important;
+	}
+}
+@media all and (max-width: 375px){
+	.title-wel-sv {
+    	font-size: 19px;
+	}
+	.card-body{
+		padding: 21px;
+	}
+	.title-lambai .title-sp {
+	    font-size: 23px ;
+	}
+	.title-sadow, .title-sadow-left {
+	    padding: 11px !important;
+	}
+}
+@media screen and (max-width: 414px){
+	.title-wel-sv {
+    	font-size: 16px;
+	}
+}
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+
+}

@@ -1,0 +1,237 @@
+/* iCheck plugin Flat skin, pink
+----------------------------------- */
+.icheckbox_flat-pink,
+.iradio_flat-pink {
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background: url(pink.png) no-repeat;
+    border: none;
+    cursor: pointer;
+}
+
+.icheckbox_flat-pink {
+    background-position: 0 0;
+}
+.icheckbox_flat-pink.checked {
+    background-position: -22px 0;
+}
+.icheckbox_flat-pink.disabled {
+    background-position: -44px 0;
+    cursor: default;
+}
+.icheckbox_flat-pink.checked.disabled {
+    background-position: -66px 0;
+}
+
+.iradio_flat-pink {
+    background-position: -88px 0;
+}
+.iradio_flat-pink.checked {
+    background-position: -110px 0;
+}
+.iradio_flat-pink.disabled {
+    background-position: -132px 0;
+    cursor: default;
+}
+.iradio_flat-pink.checked.disabled {
+    background-position: -154px 0;
+}
+hr {
+    margin-top: 0px;
+}
+.seconds, .minutes, .hours{
+    font-size: 26px;
+    /*color:#666;*/
+    /*color:#cc9700;*/
+    color:#00cc9d;
+    font-weight: bold;
+}
+.size_lg {
+    background: #fff;
+    font-size: 19px;
+    padding: 5px;
+    border: 4px solid #f27935;
+}
+.donho i{
+  font-size: 26px;
+  margin-right: 5px;
+  color: #00cc9d;
+}
+.dongho{
+  background: #a37a63;
+  /*margin: 0 20px;*/
+  /*background: #000000;*/
+
+}
+.colorDefinition {
+
+}
+.button2 {
+   position: fixed;
+  bottom: 70px;
+  z-index: 3;
+  right: 83px;
+}
+.dongho{
+  background: #a37a63;
+  margin: 0 0px;
+}
+.button1{
+    position: fixed;
+    bottom: 5px;
+    z-index: 3;
+    right: 75px;
+}
+.tttsv{
+    font-size: 25px;
+    text-align: center;
+    font-size: 16px;
+    border-left: 1px solid #e8e8e8;
+    font-family: sans-serif;
+}
+.btn-2 {
+  background-color: #2c92ce;
+}
+.btn-2 .round {
+  background-color: #2c92ce;
+}
+
+
+.type-2 button {
+  text-decoration: none;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  padding: 16px 44px 13px 24px;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: relative;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  display: inline-block;
+}
+.type-2 button span {
+  position: relative;
+  z-index: 3;
+}
+.type-2 button .round {
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+  right: 15px;
+  top: 19px;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  z-index: 2;
+}
+.type-2 button .round i {
+  position: absolute;
+  top: 50%;
+  margin-top: -6px;
+  left: 50%;
+  margin-left: -4px;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.txt {
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.type-2 button:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.type-2 button:hover .round {
+  background: none;
+}
+.type-2 button:hover .round i {
+  left: 70%;
+  color: #fff;
+}
+
+
+
+
+.type-2 a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.type-2 a:hover .round {
+  background: none;
+}
+.type-2 a:hover .round i {
+  left: 70%;
+  color: #fff;
+}
+.text-red1{
+    color:red;
+    font-weight: bold;
+}
+.text-red2{
+    color:red;
+    margin-left: 2em;
+    /*font-weight: bold;*/
+}
+.ttsvv > .col-md-3 > p{
+  font-size: 17px !important;
+}
+.message-box .mb-container {
+    top: 20%;
+    background: #f39c12;
+}
+.bg-purple{
+    border:none;
+    background:#fff !important;
+    color:black !important;
+    transition: all 1s;
+}
+.bg-purple:hover{
+    background: #666;
+    border:none;
+}
+.btn-warning {
+    background-color: #f39c12;
+    margin-left: -14px;
+    border:none;
+    padding: 10px;
+    transition: all 1s;
+}
+.btn-warning:hover{
+    background:#666;
+    border:none;
+}
+.pr-a-title h1{
+    margin-bottom: 35px;
+    text-transform: uppercase;
+    color:#ff007f;
+}
+
+/* HiDPI support */
+@media (-o-min-device-pixel-ratio: 5/4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+    .icheckbox_flat-pink,
+    .iradio_flat-pink {
+        background-image: url(pink@2x.png);
+        -webkit-background-size: 176px 22px;
+        background-size: 176px 22px;
+    }
+}

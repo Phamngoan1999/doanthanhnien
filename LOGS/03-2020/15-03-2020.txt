@@ -1,0 +1,232 @@
+admin---15/03/2020 16:26:03---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000001'
+
+
+admin---15/03/2020 16:26:03---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000001'
+
+
+admin---15/03/2020 16:26:10---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000002'
+
+
+admin---15/03/2020 16:26:10---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000002'
+
+
+admin---15/03/2020 16:26:15---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000003'
+
+
+admin---15/03/2020 16:26:15---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000003'
+
+
+admin---15/03/2020 16:26:18---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000004'
+
+
+admin---15/03/2020 16:26:18---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000004'
+
+
+admin---15/03/2020 16:26:22---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000005'
+
+
+admin---15/03/2020 16:26:22---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000005'
+
+
+admin---15/03/2020 16:26:25---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000006'
+
+
+admin---15/03/2020 16:26:25---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000006'
+
+
+admin---15/03/2020 16:26:31---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000007'
+
+
+admin---15/03/2020 16:26:31---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000007'
+
+
+admin---15/03/2020 16:26:34---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000008'
+
+
+admin---15/03/2020 16:26:34---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000008'
+
+
+admin---15/03/2020 16:26:37---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000009'
+
+
+admin---15/03/2020 16:26:38---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000009'
+
+
+admin---15/03/2020 16:26:42---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000010'
+
+
+admin---15/03/2020 16:26:42---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000010'
+
+
+admin---15/03/2020 16:26:45---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000011'
+
+
+admin---15/03/2020 16:26:45---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000011'
+
+
+admin---15/03/2020 16:26:49---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000012'
+
+
+admin---15/03/2020 16:26:49---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000012'
+
+
+admin---15/03/2020 16:26:52---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000013'
+
+
+admin---15/03/2020 16:26:52---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000013'
+
+
+admin---15/03/2020 16:26:56---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000014'
+
+
+admin---15/03/2020 16:26:56---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000014'
+
+
+admin---15/03/2020 16:26:59---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000015'
+
+
+admin---15/03/2020 16:26:59---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000015'
+
+
+admin---15/03/2020 16:27:03---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000016'
+
+
+admin---15/03/2020 16:27:03---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000016'
+
+
+admin---15/03/2020 16:27:06---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000017'
+
+
+admin---15/03/2020 16:27:06---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000017'
+
+
+admin---15/03/2020 16:27:09---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000018'
+
+
+admin---15/03/2020 16:27:09---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000018'
+
+
+admin---15/03/2020 16:27:12---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000019'
+
+
+admin---15/03/2020 16:27:12---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000019'
+
+
+admin---15/03/2020 16:27:15---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000020'
+
+
+admin---15/03/2020 16:27:15---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000020'
+
+
+admin---15/03/2020 16:27:19---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000021'
+
+
+admin---15/03/2020 16:27:19---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000021'
+
+
+admin---15/03/2020 16:27:22---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000023'
+
+
+admin---15/03/2020 16:27:22---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000023'
+
+
+admin---15/03/2020 16:27:25---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000024'
+
+
+admin---15/03/2020 16:27:25---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000024'
+
+
+admin---15/03/2020 16:27:29---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000025'
+
+
+admin---15/03/2020 16:27:29---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000025'
+
+
+admin---15/03/2020 16:27:36---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000026'
+
+
+admin---15/03/2020 16:27:36---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000026'
+
+
+admin---15/03/2020 16:27:40---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000027'
+
+
+admin---15/03/2020 16:27:40---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000027'
+
+
+admin---15/03/2020 16:27:43---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000028'
+
+
+admin---15/03/2020 16:27:43---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000028'
+
+
+admin---15/03/2020 16:27:46---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000029'
+
+
+admin---15/03/2020 16:27:46---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000029'
+
+
+admin---15/03/2020 16:27:55---DELETE FROM `tbl_dapan`
+WHERE `sMaCauhoi` = 'CH000000030'
+
+
+admin---15/03/2020 16:27:55---DELETE FROM `tbl_cauhoi`
+WHERE `sMaCauhoi` = 'CH000000030'
+
+

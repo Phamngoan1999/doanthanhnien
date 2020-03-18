@@ -1,0 +1,20 @@
+#dangnhap-sv{
+	background: #f0f0f0;
+}
+.ttdn{
+	font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    color: #1e5c8b;
+}
+.dangnhapht, .ttdn{
+	font-family: 'Arima Madurai' !important;
+	padding: 10px;
+}
+.row-dnsv{
+	padding:1em;
+}
+.out-dn{
+	background: #fff;
+    border-top: 5px solid #5898dd;
+}
